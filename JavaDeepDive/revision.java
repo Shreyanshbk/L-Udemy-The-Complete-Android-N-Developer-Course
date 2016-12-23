@@ -1,7 +1,7 @@
 // Java Revision 
 import java.util.*;
 
-public class JavaRevision{
+public class revision{
 	public static void main(String[] args){
 		
 		//Hello World 
